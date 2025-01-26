@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Chandra 
+#  Hi, I'm Chandra 
 
-🚀 **Mobile Developer** | 🛠 **Flutter & Kotlin Enthusiast** | 🌏 Based in Indonesia  
+ **Mobile Developer** | 🛠 **Flutter & Kotlin Enthusiast** |  Based in Indonesia  
 
 ---
 
@@ -11,7 +11,7 @@ I'm a passionate **Mobile Developer** with **2 years of experience** crafting se
 ---
 
 
-## 🌱 What I'm Learning  
+##  What I'm Learning  
 - Expanding my skills into **Web3** and **Solidity** to build decentralized apps (dApps).  
 - Exploring new technologies to open opportunities for **international work** and **career growth**.  
 
