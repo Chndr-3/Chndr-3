@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Chandra 
 
-<!--
-**Chndr-3/Chndr-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Mobile Developer** | 🛠 **Flutter & Kotlin Enthusiast** | 🌏 Based in Indonesia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+
+I'm a passionate **Mobile Developer** with **2 years of experience** crafting seamless and user-friendly mobile applications. I specialize in **Flutter** and **Kotlin**, combining the best of both worlds to create stunning cross-platform and native Android experiences.
+
+---
+
+
+## 🌱 What I'm Learning  
+- Expanding my skills into **Web3** and **Solidity** to build decentralized apps (dApps).  
+- Exploring new technologies to open opportunities for **international work** and **career growth**.  
+
+
+## 📊 My GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+---
+
+## 📫 How to Reach Me  
+- 💌 [Email Me](mailto:chandrawjy391@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chandra-wjy)  
+
+
