@@ -1,6 +1,6 @@
 #  Hi, I'm Chandra 
 
- **Mobile Developer** | 🛠 **Flutter & Kotlin Enthusiast** |  Based in Indonesia  
+ **Mobile Developer** 
 
 ---
 
