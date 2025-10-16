@@ -10,7 +10,7 @@ Just an engineer with 2+ years of experience who enjoys turning ideas into apps 
 
 ---
 
-Oh, and btw — check out my game Nongkee on the [Play Store](https://play.google.com/store/apps/details?id=com.cmr.nongkee&hl=id) 👀
+Oh, and btw check out my game Nongkee on the [Play Store](https://play.google.com/store/apps/details?id=com.cmr.nongkee&hl=id).
 It’s a free card game to play with your friends, co-workers, or anyone you love hanging out with!
 
 
