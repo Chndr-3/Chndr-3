@@ -1,18 +1,17 @@
 #  Hi Folks
 
- **Software Engineer (but mostly mobile)** 
+ **Software Engineer (But Mostly Mobile)** 
 
 ---
 
 ## About Me  
 
-I'm a passionate **Mobile Developer** with **2 years of experience** crafting seamless and user-friendly mobile applications. I specialize in **Flutter** and **Kotlin**, combining the best of both worlds to create stunning cross-platform and native Android experiences.
+Just an engineer with 2+ years of experience who enjoys turning ideas into apps and wrestling bugs along the way.
 
 ---
 
-
-##  What I Believe
-Being a software engineer is all about solving problems.
+Oh, and btw — check out my game Nongkee on the [Play Store](https://play.google.com/store/apps/details?id=com.cmr.nongkee&hl=id) 👀
+It’s a free card game to play with your friends, co-workers, or anyone you love hanging out with!
 
 
 ## 📊 My GitHub Stats  
