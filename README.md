@@ -1,6 +1,6 @@
-#  Hi, I'm Chandra 
+#  Hi Folks
 
- **Mobile Developer** 
+ **Software Engineer (but mostly mobile)** 
 
 ---
 
@@ -11,9 +11,8 @@ I'm a passionate **Mobile Developer** with **2 years of experience** crafting se
 ---
 
 
-##  What I'm Learning  
-- Expanding my skills into **Web3** and **Solidity** to build decentralized apps (dApps).  
-- Exploring new technologies to open opportunities for **international work** and **career growth**.  
+##  What I Believe
+Being a software engineer is all about solving problems.
 
 
 ## 📊 My GitHub Stats  
