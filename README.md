@@ -1,6 +1,6 @@
 #  Hi Folks
 
- **Software Engineer (But Mostly Mobile)** 
+ **Software Engineer (Mostly Mobile)** 
 
 ---
 
